@@ -1,3 +1,8 @@
+> **This repo has been superseded.** The team's active work and the
+> canonical repo for submission is
+> **https://github.com/Josiphiah/csc4792-kalomo-town-council** — use that
+> link, not this one.
+
 # CSC4792 Mini Project — Kalomo Town Council Dataset
 
 A curated dataset on the Constituency Development Fund (CDF), council finances,
